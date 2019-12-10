@@ -5576,11 +5576,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas.WebApi\\MinhasContas.DAL\\MinhasContas.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL\\MinhasContas.DAL.csproj",
       "projectName": "MinhasContas.DAL",
-      "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas.WebApi\\MinhasContas.DAL\\MinhasContas.DAL.csproj",
+      "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL\\MinhasContas.DAL.csproj",
       "packagesPath": "C:\\Users\\cimara.oliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas.WebApi\\MinhasContas.DAL\\obj\\",
+      "outputPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5600,8 +5600,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas.WebApi\\MinhasContas.DAL.Interface\\MinhasContas.DAL.Interface.csproj": {
-              "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas.WebApi\\MinhasContas.DAL.Interface\\MinhasContas.DAL.Interface.csproj"
+            "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL.Interface\\MinhasContas.DAL.Interface.csproj": {
+              "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL.Interface\\MinhasContas.DAL.Interface.csproj"
             }
           }
         }

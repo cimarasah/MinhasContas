@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas.WebApi\\MinhasContas.Mock\\MinhasContas.Mock.csproj",
+      "projectUniqueName": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Mock\\MinhasContas.Mock.csproj",
       "projectName": "MinhasContas.Mock",
-      "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas.WebApi\\MinhasContas.Mock\\MinhasContas.Mock.csproj",
+      "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Mock\\MinhasContas.Mock.csproj",
       "packagesPath": "C:\\Users\\cimara.oliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas.WebApi\\MinhasContas.Mock\\obj\\",
+      "outputPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Mock\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

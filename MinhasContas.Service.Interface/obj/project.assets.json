@@ -708,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas.WebApi\\MinhasContas.Service.Interface\\MinhasContas.Service.Interface.csproj",
+      "projectUniqueName": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Service.Interface\\MinhasContas.Service.Interface.csproj",
       "projectName": "MinhasContas.Service.Interface",
-      "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas.WebApi\\MinhasContas.Service.Interface\\MinhasContas.Service.Interface.csproj",
+      "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Service.Interface\\MinhasContas.Service.Interface.csproj",
       "packagesPath": "C:\\Users\\cimara.oliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas.WebApi\\MinhasContas.Service.Interface\\obj\\",
+      "outputPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Service.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -732,8 +732,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas.WebApi\\MinhasContas.Domain\\MinhasContas.Domain.csproj": {
-              "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas.WebApi\\MinhasContas.Domain\\MinhasContas.Domain.csproj"
+            "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Domain\\MinhasContas.Domain.csproj": {
+              "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Domain\\MinhasContas.Domain.csproj"
             }
           }
         }

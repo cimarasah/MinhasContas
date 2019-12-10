@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas.WebApi\\MinhasContas.WebApi\\MinhasContas.WebApi.csproj": {}
+    "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.WebApi\\MinhasContas.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas.WebApi\\MinhasContas.WebApi\\MinhasContas.WebApi.csproj": {
+    "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.WebApi\\MinhasContas.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas.WebApi\\MinhasContas.WebApi\\MinhasContas.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.WebApi\\MinhasContas.WebApi.csproj",
         "projectName": "MinhasContas.WebApi",
-        "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas.WebApi\\MinhasContas.WebApi\\MinhasContas.WebApi.csproj",
+        "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.WebApi\\MinhasContas.WebApi.csproj",
         "packagesPath": "C:\\Users\\cimara.oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas.WebApi\\MinhasContas.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
