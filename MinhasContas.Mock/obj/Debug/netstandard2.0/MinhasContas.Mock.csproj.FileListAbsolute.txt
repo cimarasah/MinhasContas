@@ -1,0 +1,8 @@
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Mock\bin\Debug\netstandard2.0\MinhasContas.Mock.deps.json
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Mock\bin\Debug\netstandard2.0\MinhasContas.Mock.dll
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Mock\bin\Debug\netstandard2.0\MinhasContas.Mock.pdb
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Mock\obj\Debug\netstandard2.0\MinhasContas.Mock.csproj.CoreCompileInputs.cache
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Mock\obj\Debug\netstandard2.0\MinhasContas.Mock.AssemblyInfoInputs.cache
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Mock\obj\Debug\netstandard2.0\MinhasContas.Mock.AssemblyInfo.cs
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Mock\obj\Debug\netstandard2.0\MinhasContas.Mock.dll
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Mock\obj\Debug\netstandard2.0\MinhasContas.Mock.pdb

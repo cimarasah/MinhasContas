@@ -1,0 +1,15 @@
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.WebApi\bin\Debug\netcoreapp2.2\MinhasContas.WebApi.deps.json
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.WebApi\bin\Debug\netcoreapp2.2\MinhasContas.WebApi.runtimeconfig.json
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.WebApi\bin\Debug\netcoreapp2.2\MinhasContas.WebApi.runtimeconfig.dev.json
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.WebApi\bin\Debug\netcoreapp2.2\MinhasContas.WebApi.dll
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.WebApi\bin\Debug\netcoreapp2.2\MinhasContas.WebApi.pdb
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.WebApi\bin\Debug\netcoreapp2.2\MinhasContas.WebApi.xml
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.WebApi\obj\Debug\netcoreapp2.2\MinhasContas.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.WebApi\obj\Debug\netcoreapp2.2\MinhasContas.WebApi.RazorAssemblyInfo.cache
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.WebApi\obj\Debug\netcoreapp2.2\MinhasContas.WebApi.RazorAssemblyInfo.cs
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.WebApi\obj\Debug\netcoreapp2.2\MinhasContas.WebApi.AssemblyInfoInputs.cache
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.WebApi\obj\Debug\netcoreapp2.2\MinhasContas.WebApi.AssemblyInfo.cs
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.WebApi\obj\Debug\netcoreapp2.2\MinhasContas.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.WebApi\obj\Debug\netcoreapp2.2\MinhasContas.WebApi.dll
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.WebApi\obj\Debug\netcoreapp2.2\MinhasContas.WebApi.pdb
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.WebApi\obj\Debug\netcoreapp2.2\MinhasContas.WebApi.csprojAssemblyReference.cache

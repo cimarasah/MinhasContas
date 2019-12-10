@@ -1,0 +1,16 @@
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Service\obj\Debug\netcoreapp2.2\MinhasContas.Service.csproj.CoreCompileInputs.cache
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Service\obj\Debug\netcoreapp2.2\MinhasContas.Service.AssemblyInfoInputs.cache
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Service\obj\Debug\netcoreapp2.2\MinhasContas.Service.AssemblyInfo.cs
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Service\obj\Debug\netcoreapp2.2\MinhasContas.Service.csprojAssemblyReference.cache
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Service\bin\Debug\netcoreapp2.2\MinhasContas.Service.deps.json
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Service\bin\Debug\netcoreapp2.2\MinhasContas.Service.dll
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Service\bin\Debug\netcoreapp2.2\MinhasContas.Service.pdb
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Service\bin\Debug\netcoreapp2.2\MinhasContas.DAL.Interface.dll
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Service\bin\Debug\netcoreapp2.2\MinhasContas.Domain.dll
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Service\bin\Debug\netcoreapp2.2\MinhasContas.Service.Interface.dll
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Service\bin\Debug\netcoreapp2.2\MinhasContas.DAL.Interface.pdb
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Service\bin\Debug\netcoreapp2.2\MinhasContas.Domain.pdb
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Service\bin\Debug\netcoreapp2.2\MinhasContas.Service.Interface.pdb
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Service\obj\Debug\netcoreapp2.2\MinhasContas.Service.csproj.CopyComplete
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Service\obj\Debug\netcoreapp2.2\MinhasContas.Service.dll
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Service\obj\Debug\netcoreapp2.2\MinhasContas.Service.pdb

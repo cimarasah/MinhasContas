@@ -1,0 +1,12 @@
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.DAL.Interface\bin\Debug\netcoreapp2.2\MinhasContas.DAL.Interface.deps.json
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.DAL.Interface\bin\Debug\netcoreapp2.2\MinhasContas.DAL.Interface.dll
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.DAL.Interface\bin\Debug\netcoreapp2.2\MinhasContas.DAL.Interface.pdb
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.DAL.Interface\bin\Debug\netcoreapp2.2\MinhasContas.Domain.dll
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.DAL.Interface\bin\Debug\netcoreapp2.2\MinhasContas.Domain.pdb
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.DAL.Interface\obj\Debug\netcoreapp2.2\MinhasContas.DAL.Interface.csprojAssemblyReference.cache
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.DAL.Interface\obj\Debug\netcoreapp2.2\MinhasContas.DAL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.DAL.Interface\obj\Debug\netcoreapp2.2\MinhasContas.DAL.Interface.AssemblyInfoInputs.cache
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.DAL.Interface\obj\Debug\netcoreapp2.2\MinhasContas.DAL.Interface.AssemblyInfo.cs
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.DAL.Interface\obj\Debug\netcoreapp2.2\MinhasContas.DAL.Interface.csproj.CopyComplete
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.DAL.Interface\obj\Debug\netcoreapp2.2\MinhasContas.DAL.Interface.dll
+C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.DAL.Interface\obj\Debug\netcoreapp2.2\MinhasContas.DAL.Interface.pdb
