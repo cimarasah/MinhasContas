@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.2": {
+      "AutoMapper/9.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.5.0",
+          "System.Reflection.Emit": "4.3.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/AutoMapper.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AutoMapper.dll": {}
+        }
+      },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "type": "package",
         "dependencies": {
@@ -4508,10 +4521,110 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "MinhasContas.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.2.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.2.0",
+          "Microsoft.Extensions.PlatformAbstractions": "1.1.0",
+          "MinhasContas.DAL.Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MinhasContas.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MinhasContas.DAL.dll": {}
+        }
+      },
+      "MinhasContas.DAL.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "MinhasContas.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MinhasContas.DAL.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MinhasContas.DAL.Interface.dll": {}
+        }
+      },
+      "MinhasContas.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/MinhasContas.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MinhasContas.Domain.dll": {}
+        }
+      },
+      "MinhasContas.IoC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "MinhasContas.DAL": "1.0.0",
+          "MinhasContas.Service": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MinhasContas.IoC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MinhasContas.IoC.dll": {}
+        }
+      },
+      "MinhasContas.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "AutoMapper": "9.0.0",
+          "MinhasContas.DAL.Interface": "1.0.0",
+          "MinhasContas.Domain": "1.0.0",
+          "MinhasContas.Service.Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MinhasContas.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MinhasContas.Service.dll": {}
+        }
+      },
+      "MinhasContas.Service.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "MinhasContas.DAL.Interface": "1.0.0",
+          "MinhasContas.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MinhasContas.Service.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MinhasContas.Service.Interface.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "AutoMapper/9.0.0": {
+      "sha512": "xCqvoxT4HIrNY/xlXG9W+BA/awdrhWvMTKTK/igkGSRbhOhpl3Q8O8Gxlhzjc9JsYqE7sS6AxgyuUUvZ6R5/Bw==",
+      "type": "package",
+      "path": "automapper/9.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "automapper.9.0.0.nupkg.sha512",
+        "automapper.nuspec",
+        "lib/net461/AutoMapper.dll",
+        "lib/net461/AutoMapper.pdb",
+        "lib/net461/AutoMapper.xml",
+        "lib/netstandard2.0/AutoMapper.dll",
+        "lib/netstandard2.0/AutoMapper.pdb",
+        "lib/netstandard2.0/AutoMapper.xml"
+      ]
+    },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "sha512": "owAlEIUZXWSnkK8Z1c+zR47A0X6ykF4XjbPok4lQKNuciUfHLGPd6QnI+rt/8KlQ17PmF+I4S3f+m+Qe4IvViw==",
       "type": "package",
@@ -12200,6 +12313,36 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "MinhasContas.DAL/1.0.0": {
+      "type": "project",
+      "path": "../MinhasContas.DAL/MinhasContas.DAL.csproj",
+      "msbuildProject": "../MinhasContas.DAL/MinhasContas.DAL.csproj"
+    },
+    "MinhasContas.DAL.Interface/1.0.0": {
+      "type": "project",
+      "path": "../MinhasContas.DAL.Interface/MinhasContas.DAL.Interface.csproj",
+      "msbuildProject": "../MinhasContas.DAL.Interface/MinhasContas.DAL.Interface.csproj"
+    },
+    "MinhasContas.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MinhasContas.Domain/MinhasContas.Domain.csproj",
+      "msbuildProject": "../MinhasContas.Domain/MinhasContas.Domain.csproj"
+    },
+    "MinhasContas.IoC/1.0.0": {
+      "type": "project",
+      "path": "../MinhasContas.IoC/MinhasContas.IoC.csproj",
+      "msbuildProject": "../MinhasContas.IoC/MinhasContas.IoC.csproj"
+    },
+    "MinhasContas.Service/1.0.0": {
+      "type": "project",
+      "path": "../MinhasContas.Service/MinhasContas.Service.csproj",
+      "msbuildProject": "../MinhasContas.Service/MinhasContas.Service.csproj"
+    },
+    "MinhasContas.Service.Interface/1.0.0": {
+      "type": "project",
+      "path": "../MinhasContas.Service.Interface/MinhasContas.Service.Interface.csproj",
+      "msbuildProject": "../MinhasContas.Service.Interface/MinhasContas.Service.Interface.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -12208,6 +12351,7 @@
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.Extensions.PlatformAbstractions >= 1.1.0",
       "Microsoft.NETCore.App >= 2.2.0",
+      "MinhasContas.IoC >= 1.0.0",
       "Swashbuckle.AspNetCore >= 4.0.1"
     ]
   },
@@ -12241,7 +12385,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.IoC\\MinhasContas.IoC.csproj": {
+              "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.IoC\\MinhasContas.IoC.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

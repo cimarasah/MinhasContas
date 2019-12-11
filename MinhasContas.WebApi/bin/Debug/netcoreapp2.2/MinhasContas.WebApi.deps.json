@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "176c06168bb2b278e0d99004aed18ae62e530785"
+    "signature": "cf7fe9d1a8498d62f7f6c56d3acb8023d9802747"
   },
   "compilationOptions": {
     "defines": [
@@ -28,6 +28,7 @@
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.Extensions.PlatformAbstractions": "1.1.0",
           "Microsoft.NETCore.App": "2.2.0",
+          "MinhasContas.IoC": "1.0.0",
           "Swashbuckle.AspNetCore": "4.0.1"
         },
         "runtime": {
@@ -35,6 +36,21 @@
         },
         "compile": {
           "MinhasContas.WebApi.dll": {}
+        }
+      },
+      "AutoMapper/9.0.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.5.0",
+          "System.Reflection.Emit": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AutoMapper.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/AutoMapper.dll": {}
         }
       },
       "Microsoft.Extensions.PlatformAbstractions/1.1.0": {
@@ -115,6 +131,77 @@
         },
         "compile": {
           "lib/netstandard2.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+        }
+      },
+      "MinhasContas.DAL/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.2.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.2.0",
+          "Microsoft.Extensions.PlatformAbstractions": "1.1.0",
+          "MinhasContas.DAL.Interface": "1.0.0"
+        },
+        "runtime": {
+          "MinhasContas.DAL.dll": {}
+        },
+        "compile": {
+          "MinhasContas.DAL.dll": {}
+        }
+      },
+      "MinhasContas.DAL.Interface/1.0.0": {
+        "dependencies": {
+          "MinhasContas.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MinhasContas.DAL.Interface.dll": {}
+        },
+        "compile": {
+          "MinhasContas.DAL.Interface.dll": {}
+        }
+      },
+      "MinhasContas.Domain/1.0.0": {
+        "runtime": {
+          "MinhasContas.Domain.dll": {}
+        },
+        "compile": {
+          "MinhasContas.Domain.dll": {}
+        }
+      },
+      "MinhasContas.IoC/1.0.0": {
+        "dependencies": {
+          "MinhasContas.DAL": "1.0.0",
+          "MinhasContas.Service": "1.0.0"
+        },
+        "runtime": {
+          "MinhasContas.IoC.dll": {}
+        },
+        "compile": {
+          "MinhasContas.IoC.dll": {}
+        }
+      },
+      "MinhasContas.Service/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "9.0.0",
+          "MinhasContas.DAL.Interface": "1.0.0",
+          "MinhasContas.Domain": "1.0.0",
+          "MinhasContas.Service.Interface": "1.0.0"
+        },
+        "runtime": {
+          "MinhasContas.Service.dll": {}
+        },
+        "compile": {
+          "MinhasContas.Service.dll": {}
+        }
+      },
+      "MinhasContas.Service.Interface/1.0.0": {
+        "dependencies": {
+          "MinhasContas.DAL.Interface": "1.0.0",
+          "MinhasContas.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MinhasContas.Service.Interface.dll": {}
+        },
+        "compile": {
+          "MinhasContas.Service.Interface.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3319,6 +3406,13 @@
       "serviceable": false,
       "sha512": ""
     },
+    "AutoMapper/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xCqvoxT4HIrNY/xlXG9W+BA/awdrhWvMTKTK/igkGSRbhOhpl3Q8O8Gxlhzjc9JsYqE7sS6AxgyuUUvZ6R5/Bw==",
+      "path": "automapper/9.0.0",
+      "hashPath": "automapper.9.0.0.nupkg.sha512"
+    },
     "Microsoft.Extensions.PlatformAbstractions/1.1.0": {
       "type": "package",
       "serviceable": true,
@@ -3353,6 +3447,36 @@
       "sha512": "sha512-d2U7NyV0e4UhyCzAVK9QHm0iz2QoVPUa9XzJ/Gr0rn/jBZWFpVLvigKv0vxFzO2E793sY605+4h885gvCdKSxQ==",
       "path": "swashbuckle.aspnetcore.swaggerui/4.0.1",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.4.0.1.nupkg.sha512"
+    },
+    "MinhasContas.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MinhasContas.DAL.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MinhasContas.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MinhasContas.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MinhasContas.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MinhasContas.Service.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",

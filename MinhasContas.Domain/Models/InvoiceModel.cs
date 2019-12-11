@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 namespace MinhasContas.Domain.Models
 {
-    public class InvoiceModel
+    public class InvoiceModel : BaseModel
     {
         public InvoiceModel(CardModel Card)
         {
@@ -14,7 +14,6 @@ namespace MinhasContas.Domain.Models
             DueDate = InvoiceCardExtension.GetDate(Card.DueDay, (MonthEnum)DateTime.Now.Month);
             StateInvoice = new OpenState();
         }
-        public int Id { get; set; }
         public MonthEnum Month { get; set; }
         public double Value { get; set; }
         public CardModel Card { get; set; }

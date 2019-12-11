@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v2.2": {
       "MinhasContas.Service.Interface/1.0.0": {
         "dependencies": {
+          "MinhasContas.DAL.Interface": "1.0.0",
           "MinhasContas.Domain": "1.0.0"
         },
         "runtime": {
           "MinhasContas.Service.Interface.dll": {}
+        }
+      },
+      "MinhasContas.DAL.Interface/1.0.0": {
+        "dependencies": {
+          "MinhasContas.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MinhasContas.DAL.Interface.dll": {}
         }
       },
       "MinhasContas.Domain/1.0.0": {
@@ -23,6 +32,11 @@
   },
   "libraries": {
     "MinhasContas.Service.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MinhasContas.DAL.Interface/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

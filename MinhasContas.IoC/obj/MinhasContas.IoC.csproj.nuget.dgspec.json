@@ -61,6 +61,75 @@
         }
       }
     },
+    "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL\\MinhasContas.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL\\MinhasContas.DAL.csproj",
+        "projectName": "MinhasContas.DAL",
+        "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL\\MinhasContas.DAL.csproj",
+        "packagesPath": "C:\\Users\\cimara.oliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cimara.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nexus.amcom.com.br/repository/NuGet-AMcom/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL.Interface\\MinhasContas.DAL.Interface.csproj": {
+                "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL.Interface\\MinhasContas.DAL.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.PlatformAbstractions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
     "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Domain\\MinhasContas.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -141,14 +210,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL.Interface\\MinhasContas.DAL.Interface.csproj": {
-                "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL.Interface\\MinhasContas.DAL.Interface.csproj"
-              },
-              "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Domain\\MinhasContas.Domain.csproj": {
-                "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Domain\\MinhasContas.Domain.csproj"
-              },
-              "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Service.Interface\\MinhasContas.Service.Interface.csproj": {
-                "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Service.Interface\\MinhasContas.Service.Interface.csproj"
+              "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL\\MinhasContas.DAL.csproj": {
+                "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL\\MinhasContas.DAL.csproj"
               },
               "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Service\\MinhasContas.Service.csproj": {
                 "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Service\\MinhasContas.Service.csproj"
@@ -207,6 +270,9 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
+              "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL.Interface\\MinhasContas.DAL.Interface.csproj": {
+                "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL.Interface\\MinhasContas.DAL.Interface.csproj"
+              },
               "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Domain\\MinhasContas.Domain.csproj": {
                 "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Domain\\MinhasContas.Domain.csproj"
               }
@@ -285,6 +351,10 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",

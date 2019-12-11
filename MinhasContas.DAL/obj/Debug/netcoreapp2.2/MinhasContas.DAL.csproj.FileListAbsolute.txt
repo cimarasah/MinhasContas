@@ -12,3 +12,17 @@ C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.DAL\bin\D
 C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.DAL\obj\Debug\netcoreapp2.2\MinhasContas.DAL.csproj.CopyComplete
 C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.DAL\obj\Debug\netcoreapp2.2\MinhasContas.DAL.dll
 C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.DAL\obj\Debug\netcoreapp2.2\MinhasContas.DAL.pdb
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.DAL\bin\Debug\netcoreapp2.2\MinhasContas.DAL.deps.json
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.DAL\bin\Debug\netcoreapp2.2\MinhasContas.DAL.dll
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.DAL\bin\Debug\netcoreapp2.2\MinhasContas.DAL.pdb
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.DAL\bin\Debug\netcoreapp2.2\MinhasContas.DAL.Interface.dll
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.DAL\bin\Debug\netcoreapp2.2\MinhasContas.Domain.dll
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.DAL\bin\Debug\netcoreapp2.2\MinhasContas.DAL.Interface.pdb
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.DAL\bin\Debug\netcoreapp2.2\MinhasContas.Domain.pdb
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.DAL\obj\Debug\netcoreapp2.2\MinhasContas.DAL.csprojAssemblyReference.cache
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.DAL\obj\Debug\netcoreapp2.2\MinhasContas.DAL.csproj.CoreCompileInputs.cache
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.DAL\obj\Debug\netcoreapp2.2\MinhasContas.DAL.AssemblyInfoInputs.cache
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.DAL\obj\Debug\netcoreapp2.2\MinhasContas.DAL.AssemblyInfo.cs
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.DAL\obj\Debug\netcoreapp2.2\MinhasContas.DAL.csproj.CopyComplete
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.DAL\obj\Debug\netcoreapp2.2\MinhasContas.DAL.dll
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.DAL\obj\Debug\netcoreapp2.2\MinhasContas.DAL.pdb

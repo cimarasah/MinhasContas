@@ -208,6 +208,19 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "MinhasContas.DAL.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "MinhasContas.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MinhasContas.DAL.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MinhasContas.DAL.Interface.dll": {}
+        }
+      },
       "MinhasContas.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
@@ -689,6 +702,11 @@
         "netstandard.library.nuspec"
       ]
     },
+    "MinhasContas.DAL.Interface/1.0.0": {
+      "type": "project",
+      "path": "../MinhasContas.DAL.Interface/MinhasContas.DAL.Interface.csproj",
+      "msbuildProject": "../MinhasContas.DAL.Interface/MinhasContas.DAL.Interface.csproj"
+    },
     "MinhasContas.Domain/1.0.0": {
       "type": "project",
       "path": "../MinhasContas.Domain/MinhasContas.Domain.csproj",
@@ -698,6 +716,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.NETCore.App >= 2.2.0",
+      "MinhasContas.DAL.Interface >= 1.0.0",
       "MinhasContas.Domain >= 1.0.0"
     ]
   },
@@ -732,6 +751,9 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
+            "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL.Interface\\MinhasContas.DAL.Interface.csproj": {
+              "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.DAL.Interface\\MinhasContas.DAL.Interface.csproj"
+            },
             "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Domain\\MinhasContas.Domain.csproj": {
               "projectPath": "C:\\Users\\cimara.oliveira\\source\\repos\\MinhasContas\\MinhasContas.Domain\\MinhasContas.Domain.csproj"
             }

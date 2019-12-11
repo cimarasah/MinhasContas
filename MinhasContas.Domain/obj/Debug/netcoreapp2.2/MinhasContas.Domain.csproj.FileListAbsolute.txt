@@ -6,3 +6,11 @@ C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Domain\ob
 C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Domain\obj\Debug\netcoreapp2.2\MinhasContas.Domain.AssemblyInfo.cs
 C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Domain\obj\Debug\netcoreapp2.2\MinhasContas.Domain.dll
 C:\Users\cimara.oliveira\source\repos\MinhasContas.WebApi\MinhasContas.Domain\obj\Debug\netcoreapp2.2\MinhasContas.Domain.pdb
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.Domain\bin\Debug\netcoreapp2.2\MinhasContas.Domain.deps.json
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.Domain\bin\Debug\netcoreapp2.2\MinhasContas.Domain.dll
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.Domain\bin\Debug\netcoreapp2.2\MinhasContas.Domain.pdb
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.Domain\obj\Debug\netcoreapp2.2\MinhasContas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.Domain\obj\Debug\netcoreapp2.2\MinhasContas.Domain.AssemblyInfoInputs.cache
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.Domain\obj\Debug\netcoreapp2.2\MinhasContas.Domain.AssemblyInfo.cs
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.Domain\obj\Debug\netcoreapp2.2\MinhasContas.Domain.dll
+C:\Users\cimara.oliveira\source\repos\MinhasContas\MinhasContas.Domain\obj\Debug\netcoreapp2.2\MinhasContas.Domain.pdb
